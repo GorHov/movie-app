@@ -1,0 +1,30 @@
+.slider-container {
+  background-color: #040404;
+  padding-left: 160px;
+  height: 32vh;
+}
+
+.slick-slide {
+  margin-right: 10px;
+}
+
+.slick-list {
+  overflow: hidden;
+}
+
+.slick-track {
+  width: 6000px !important
+}
+
+.video-cover {
+  background-size: cover;
+  width: 200px;
+  height: 296px; 
+  cursor: pointer;
+}
+
+.slider-container p {
+  margin: 0;
+  color: #f1f1f1;
+  font-size: 32px;
+}
