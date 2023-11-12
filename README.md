@@ -12,4 +12,4 @@ npm start
 
 NOTE 
 
-Test only on 1920 * 1080
+Test only on 1920 * 1080 scrin
